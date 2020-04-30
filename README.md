@@ -3,7 +3,7 @@
 
 **Requirements:** WEB page sharing in different platform like Facebook, Twitter, Instagram and WhatsApp.
 
-Here is my analysis and how we can use share feature of different platform.
+Here is my analysis and how we can use share feature on different platform.
 
 ## FaceBook Share
 A facebook share is when you click the share button to share a piece of content or Web page on Facebook. By adding a special code to a web page you can place a Facebook share button on your web page. When the share button is clicked and the share is posted, the shared content is then published to that user's personal profile (Facebook calls this your "wall").
