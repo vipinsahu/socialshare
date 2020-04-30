@@ -76,12 +76,14 @@ It will only work for mobile browser and takes as parameters a message text, a T
   <meta property="og:image"         content="https://example.com/img45.png" />
 ```
 
+
 # Quick Start Example
 1. > For facebook check fb.html
 
 2. > For twitter check tw.html
 
 3. > For whatsapp check wa.html
+
 
 # About Open Graph protocol
 The Open Graph protocol enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.
