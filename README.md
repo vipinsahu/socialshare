@@ -64,7 +64,7 @@ Tweet</a>
 It will only work for mobile browser and takes as parameters a message text, a Twitter user name, a page URL to share and some tracking parameter values.
 #### Code example
 ```html
-<a href="https://api.whatsapp.com/send?phone=919315611767&text=https://example.com/" target="_blank">WA</a>
+<a href="https://api.whatsapp.com/send?phone=91XXXXXXXXX&text=https://example.com/" target="_blank">WA</a>
 ```
 
 #### WhatsApp uses Open Graph to fetch content from page
