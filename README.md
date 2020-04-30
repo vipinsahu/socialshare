@@ -27,7 +27,7 @@ A facebook share is when you click the share button to share a piece of content 
     data-layout="button_count">
   </div>
 ```
-### Facebook uses Open Graph to fetch content from page
+#### Facebook uses Open Graph to fetch content from page
 ```html
   <meta property="og:url"           content="https://mytesting.com/" />
   <meta property="og:type"          content="Just Testing" />
@@ -35,7 +35,7 @@ A facebook share is when you click the share button to share a piece of content 
   <meta property="og:description"   content="My Testing description" />
   <meta property="og:image"         content="https://example.com/img45.png" />
 ```
-### For more information 
+#### For more information 
 Please [click here](https://developers.facebook.com/docs/plugins/share-button/) 
 
 ## Twitter Share
@@ -62,6 +62,7 @@ Tweet</a>
 
 ## WhatsApp Share
 It will only work for mobile browser and takes as parameters a message text, a Twitter user name, a page URL to share and some tracking parameter values.
+
 #### Code example
 ```html
 <a href="https://api.whatsapp.com/send?phone=91XXXXXXXXX&text=https://example.com/" target="_blank">WA</a>
@@ -75,7 +76,6 @@ It will only work for mobile browser and takes as parameters a message text, a T
   <meta property="og:description"   content="My Testing description" />
   <meta property="og:image"         content="https://example.com/img45.png" />
 ```
-
 
 ## Quick Start Example
 1. > For facebook check fb.html
