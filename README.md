@@ -61,7 +61,7 @@ Tweet</a>
 ```
 
 ## WhatsApp Share
-It will only work for mobile browser and takes as parameters a message text, a Twitter user name, a page URL to share and some tracking parameter values.
+It will only work for mobile browser and takes as parameters a message text, a page URL to share and some tracking parameter values.
 
 #### Code example
 ```html
