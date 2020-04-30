@@ -84,6 +84,56 @@ It will only work for mobile browser and takes as parameters a message text, a T
 
 3. > For whatsapp check wa.html
 
+3. > For other check ot.html
+
+
+### GOOGLE+ SHARE
+```html
+<a class="w-inline-block social-share-btn gplus" href="https://plus.google.com/share?url=" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;">
+  Share
+</a>
+```
+
+### PINTEREST SHARE
+```html
+<a class="w-inline-block social-share-btn pin" href="http://pinterest.com/pin/create/button/?url=&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' + encodeURIComponent(document.title)); return false;">
+  Share
+</a>
+```
+
+### TUMBLR SHARE
+```html
+<a class="w-inline-block social-share-btn tmb" href="http://www.tumblr.com/share?v=3&u=&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.title)); return false;">
+  Share
+</a>
+```
+
+### SHARE VIA E-MAIL
+```html
+<a class="w-inline-block social-share-btn email" href="mailto:?subject=&body=:%20" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL)); return false;">
+  Share
+</a>
+```
+
+### PINBOARD SHARE
+```html
+<a class="w-inline-block social-share-btn pinb" href="https://pinboard.in/popup_login/?url=&title=&description=" target="_blank" title="Save to Pinboard" onclick="window.open('https://pinboard.in/popup_login/?url=' + encodeURIComponent(document.URL) + '&title=' + encodeURIComponent(document.title)); return false;">
+  Share
+</a>
+```
+
+### LINKEDIN SHARE
+```html
+<a class="w-inline-block social-share-btn lnk" href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source=" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' + encodeURIComponent(document.title)); return false;">
+  Share
+</a>
+```
+
+### REDDIT SHARE
+```html
+<a class="w-inline-block social-share-btn redd" href="http://www.reddit.com/submit?url=&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' + encodeURIComponent(document.title)); return false;">Reddit</a>
+```
+
 
 ## About Open Graph protocol
 The Open Graph protocol enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.
