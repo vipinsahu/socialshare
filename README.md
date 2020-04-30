@@ -1,7 +1,7 @@
 
 # Social Share
 
-**Requirements:** WEB page sharing in different platform like Facebook, Twitter, Instagram and WhatsApp.
+**Requirements:** WEB page sharing in different platform like Facebook, Twitter, WhatsApp and other social platforms.
 
 Here is my analysis and how we can use share feature on different platform.
 
